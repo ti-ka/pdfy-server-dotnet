@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf-server", "pdf-server.csproj", "{818006DF-6401-484C-B386-4FD7CBE288FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfyServer", "PdfyServer/PdfyServer.csproj", "{818006DF-6401-484C-B386-4FD7CBE288FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
